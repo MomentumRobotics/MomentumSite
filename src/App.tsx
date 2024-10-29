@@ -70,6 +70,18 @@ function App() {
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
         </Box>
     );
 }
