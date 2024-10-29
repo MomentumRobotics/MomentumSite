@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './images/logo.png';
+import instagram from './images/instagram.png';
 import './App.css';
+import {Box, Button, Paper, Stack, Typography} from "@mui/material";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <Box paddingTop={"25px"}>
+            <Stack direction={"row"} spacing={"1rem"} position={"sticky"} top={0}>
+                <Button variant={"contained"}>Home</Button>
+                <Button variant={"contained"}>Info</Button>
+            </Stack>
+            <Typography variant={"h1"} textAlign={"center"}>Momentum</Typography>
+        </Box>
+    );
 }
 
 export default App;
