@@ -2,7 +2,7 @@
   "name": "site-momentum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ursachemihai.github.io/site-momentum/",
+  "homepage": "https://momentumrobotics.github.io/MomentumSite/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
